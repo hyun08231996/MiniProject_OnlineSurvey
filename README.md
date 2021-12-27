@@ -1,2 +1,2 @@
 # Self_MiniProject_mySurvey
-Created a simple online survey page using HTML, CSS, and JavaScript(jQuery).
+Created a simple online survey page using HTML, CSS, and JavaScript (jQuery).
