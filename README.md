@@ -7,7 +7,7 @@ Created a simple online survey webpage called "mySurvey" using HTML, CSS, and Ja
 ## Live Demo 🎥
 🔗 <a href="https://x4z7k.csb.app/" target="_blank">Click here</a> to try out the sample survey! <br><br>
 🔗 Click below to watch the live demo! ⬇️<br>
-[![Watch the live demo!](https://user-images.githubusercontent.com/81090746/147497009-d9b5bbd6-04a4-44ca-b303-7a1aaee9ec55.png)](https://drive.google.com/file/d/1a1uDY9IzrkNvDf7XkkCfhNSqZX3a_iF7/view?usp=sharing)
+[![Watch the live demo!](https://user-images.githubusercontent.com/81090746/147497009-d9b5bbd6-04a4-44ca-b303-7a1aaee9ec55.png)](https://youtu.be/sNBcYwvjRTk)
 
 
 ## Features 🌅 
