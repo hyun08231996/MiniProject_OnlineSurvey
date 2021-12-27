@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/81090746/147492484-05bd0a2a-e147-4010-b478-f39f912efac3.png)
+
 # mySurvey
 ## Description 📋
 Created a simple online survey webpage called "mySurvey" using HTML, CSS, and JavaScript (jQuery).
