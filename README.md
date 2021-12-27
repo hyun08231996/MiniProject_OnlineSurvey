@@ -1,5 +1,5 @@
 # mySurvey
-## Description ✅
+## Description 📋
 Created a simple online survey webpage called "mySurvey" using HTML, CSS, and JavaScript (jQuery).
 ## Demo 🔗
 [Click here](https://x4z7k.csb.app/) to see the live demo! <br><br>
